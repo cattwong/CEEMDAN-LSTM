@@ -1,5 +1,5 @@
 # ceemdan-lstm prediction
-# QQQ Volume Prediction using CEEMDAN and LSTM
+# QQQ Trading Volume Prediction using CEEMDAN and LSTM
 
 ## Project Overview
 

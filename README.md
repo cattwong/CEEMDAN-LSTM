@@ -37,7 +37,7 @@ Contributions and suggestions are welcome. Please submit a Pull Request or repor
 
 ## 项目概述
 
-这是一个基于本科毕设的项目，旨在通过CEEMDAN（完全经验模态分解自适应噪声）和LSTM（长短期记忆）模型优化和提高QQQ（纳斯达克100指数）的交易量预测的准确性。本项目基于新加坡国立大学（NUS）与南京航空航天大学（NUAA）的联合培养计划。
+这是一个基于本科毕设的项目，旨在通过CEEMDAN（完全经验模态分解自适应噪声）和LSTM（长短期记忆）模型优化和提高QQQ（纳斯达克100指数）的交易量预测的准确性。本项目基于NUS与NUAA的联合培养计划。
 
 ## 项目功能
 
@@ -53,7 +53,7 @@ Contributions and suggestions are welcome. Please submit a Pull Request or repor
 
 ## 代码说明
 
-- **1 final dataprocess 0429.ipynb**: 数据处理的最终结果，，用于展示数据预处理的结果和步骤。
+- **1 final dataprocess 0429.ipynb**: 数据处理的最终结果，用于展示数据预处理的结果和步骤。
 
 - **2 finalmodel1 0429 ceemdan fault type.ipynb**: 最终模型的分析结果(CEEMDAN有部分错误)。
 
@@ -62,8 +62,7 @@ Contributions and suggestions are welcome. Please submit a Pull Request or repor
 
 ## 贡献
 
-欢迎贡献代码和提出改进建议。请提交Pull Request或报告问题。
-
+欢迎贡献代码和提出改进建议。
 ## 联系
 
 - [GitHub 主页](https://github.com/cattwong)
